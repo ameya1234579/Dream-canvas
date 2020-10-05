@@ -1,1 +1,2 @@
-# Dream-canvas
+# synchronousBallMovement
+Ball moving synchronously
